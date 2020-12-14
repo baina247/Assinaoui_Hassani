@@ -1,0 +1,15 @@
+#container_header
+{
+	width: 100%;
+	background-color: gray;
+}
+
+.photo_profil
+{
+	width: 20%;
+	height: 160px;
+	background-position: center;
+	background-size: cover;
+	background-image: url(../images/photo_profil.JPG);
+	border-radius: 50%;
+}
